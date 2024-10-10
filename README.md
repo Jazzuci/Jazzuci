@@ -3,7 +3,7 @@
 <h3 align="center">A beginner in the world of programming and technology. I am passionate about learning and exploring various fields</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-media-1.freecodecamp.org/images/1*MINb-ejYCab5RKkhqAplDA.gif">
 
-- 💬 Don't ask me about **because i still learning**
+- 💬 Don't ask me about anything
 
 - 📫 How to reach me **adetriono123@gmail.com**
 
