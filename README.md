@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **adetriono123@gmail.com**
 
-- 📄 Know about my experiences [https://pakettourbali.net/](https://pakettourbali.net/)
-
 - ⚡ Fun fact **Iam Human**
 
 <p align="left">
