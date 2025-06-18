@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 #### solo leveling
 ![Jazzuci's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jazzuci&show_icons=true&theme=synthwave)
 
+####
 
+#### pakannya dikit jir
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jazzuci/jazzuci/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jazzuci/jazzuci/output/pacman-contribution-graph.svg">
