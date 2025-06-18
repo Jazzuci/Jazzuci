@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hai, Iam Jazzuci 👋
 
+![Jazzuci](github-header-image.png)
 <!--
 **Jazzuci/Jazzuci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
